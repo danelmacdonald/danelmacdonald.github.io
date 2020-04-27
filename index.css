@@ -1,0 +1,57 @@
+#cv {
+  margin-left: 15%;
+  margin-right: 15%; 
+  padding: 0px 10px;
+  margin-top: 70px;
+  font-size: 103%;
+}
+
+body{
+    background-color: #e6e6e6;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#heading {
+    position: relative;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+#centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.contacts{
+  padding-left:70%;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.section{
+  padding-bottom: 35px;
+}
+
+.text{
+  padding-left: 35px;
+}
+
+.indent{
+  padding-left: 25%;
+}
